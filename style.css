@@ -1,0 +1,177 @@
+html{ 
+font-size: 25px;
+font-family:"Open Sans",sans-serif;
+}
+
+
+
+h1{
+font-size: 60px;
+text-align: center;
+color : bisque;
+background-color: black;
+}
+
+
+
+h1:hover {
+color: red;
+};
+
+
+
+h2{
+font-size: 25px;
+}
+
+
+
+h2, h3{
+color : #137a7f;
+}
+
+
+
+p{
+    color : #86cecb;
+}
+
+
+
+h4{
+    color : #86cecb;
+}
+
+
+
+body{
+background-image: url(fundo.png);
+background-repeat : no-repeat;
+background-attachment : fixed;
+background-size : cover;
+}
+
+
+
+#div_0002 {
+    background-color: white;
+    color : black;
+    padding : 15px;    
+}
+
+#div_0003 {
+    background-color: rgb(11 151 20 / 19%);
+    color : rgb(255, 255, 255);
+    padding : 15px;    
+}
+
+
+
+.container {
+    background-color : #777777;
+    margin: 1em 2em;
+    border: 5px solid rgb(225,40,133);
+    padding : 5px;
+}
+
+
+
+@media screen and (min-width: 800px) {
+    .container {
+        background-color: #555555;
+        border: 8px dotted rgb(225,40,133);
+        padding : 10px 5 px;
+    }
+
+    h1:hover {
+        color : #e12885;
+    }
+
+    h2,h3 {
+        text-align : left;
+    }
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
