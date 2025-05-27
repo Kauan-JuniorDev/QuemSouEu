@@ -1,4 +1,4 @@
 var alerta;
-alerta = "ALERTA! CORNO NO SITE"
+alerta = "ALERTA! CORNO NO SITE KKKKKKKKK"
 
 alert (alerta);
