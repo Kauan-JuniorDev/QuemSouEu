@@ -1,1 +1,4 @@
-alert("vsf kkkkkkkk");
+var alerta;
+alerta = "ALERTA! CORNO NO SITE"
+
+alert (alerta);
