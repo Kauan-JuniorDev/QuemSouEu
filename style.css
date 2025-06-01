@@ -22,6 +22,7 @@ font-size: 25px;
 
 h2, h3, p, h4{
 color : white;
+line-height: 5;
 }
 
 body{
@@ -29,7 +30,6 @@ background-image: url(fundo.png);
 background-repeat : no-repeat;
 background-attachment : fixed;
 background-size : cover;
-line-height: 5;
 }
 
 #div_0002 {
@@ -71,5 +71,3 @@ line-height: 5;
     }
         
 }
-
-
