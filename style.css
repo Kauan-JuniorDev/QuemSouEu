@@ -20,9 +20,9 @@ h2{
 font-size: 25px;
 }
 
-h2, h3, p, h4{
-color : white;
-line-height: 5;
+h2, h3, h4{
+color : red;
+line-height: 1.5;
 }
 
 body{
