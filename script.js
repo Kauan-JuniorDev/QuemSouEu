@@ -16,4 +16,3 @@ var informação = "informação";
 var aviso = "aviso";
 
 var PERIGO = "PERIGO";
-
