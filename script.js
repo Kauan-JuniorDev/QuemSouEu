@@ -11,8 +11,6 @@ var alerta;
 alerta = "alerta";
 alert (alerta);
 
-var informação = "informação";
-
 var aviso = "aviso";
 
 var PERIGO = "PERIGO";
