@@ -10,3 +10,9 @@ for (let numero_repetido = 0; numero_repetido < 10; numero_repetido++)
 var alerta;
 alerta = "alerta";
 alert (alerta);
+
+var informação = "informação";
+
+var informação = "informação";
+
+var informação = "informação";
