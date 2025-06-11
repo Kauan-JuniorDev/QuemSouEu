@@ -13,6 +13,6 @@ alert (alerta);
 
 var informação = "informação";
 
-var informação = "informação";
+var aviso = "aviso";
 
-var informação = "informação";
+var PERIGO = "PERIGO";
