@@ -18,6 +18,6 @@ var aviso = "aviso";
 var PERIGO = "PERIGO";
 
 var informação = document.getElementById("button_b_0001");
-botao.addEventListener('click', function () {
+informação.addEventListener('click', function () {
   alert('informação');
 });
