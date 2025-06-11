@@ -11,11 +11,17 @@ var alerta;
 alerta = "alerta";
 alert (alerta);
 
-var aviso = "aviso";
-
-var PERIGO = "PERIGO";
-
 var informação = document.getElementById("button_b_0001");
 informação.addEventListener('click', function () {
+  alert('informação');
+});
+
+var aviso = document.getElementById("button_b_0002");
+aviso.addEventListener('click', function () {
+  alert('informação');
+});
+
+var perigo = document.getElementById("button_b_0003");
+perigo.addEventListener('click', function () {
   alert('informação');
 });
