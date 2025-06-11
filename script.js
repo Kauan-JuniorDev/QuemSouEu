@@ -18,10 +18,10 @@ informação.addEventListener('click', function () {
 
 var aviso = document.getElementById("button_b_0002");
 aviso.addEventListener('click', function () {
-  alert('informação');
+  alert('aviso');
 });
 
 var perigo = document.getElementById("button_b_0003");
 perigo.addEventListener('click', function () {
-  alert('informação');
+  alert('perigo');
 });
