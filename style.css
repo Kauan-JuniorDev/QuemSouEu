@@ -26,15 +26,6 @@ html{
     background-attachment : fixed;
     background-size : cover;
     }
-    #div_0002 {
-        background-color: white;
-        color : black;
-    }
-    #div_0003 {
-        background-color: rgba(0, 0, 0, 0.8);
-        color : white;
-        padding : 15px;    
-    }
     #img_0001 {
         width: 35%;
         height: 35%;
