@@ -3,6 +3,7 @@ html{
     font-family:"Open Sans",sans-serif;
     }
     h1{
+    margin: 10px:
     font-size: 100px;
     text-align: center;
     color: white;
@@ -28,7 +29,6 @@ html{
     #div_0002 {
         background-color: white;
         color : black;
-        padding : 15px;    
     }
     #div_0003 {
         background-color: rgba(0, 0, 0, 0.8);
