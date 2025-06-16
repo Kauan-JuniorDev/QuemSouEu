@@ -1,8 +1,10 @@
 html{ 
     font-size: 25px;
     font-family:"Open Sans",sans-serif;}
-    #div_003, #div_004{
-        margin: 20px;}
+    #div_003{
+        margin: 10px;}
+    #div_004{
+        margin-left: 20px;}
     h1{
         font-size: 100px;
         text-align: center;
@@ -12,7 +14,7 @@ html{
         background-color: lightblue;}
     h1:hover {
         color: red;};
-    p{
+    #p_0001{
         color: white;
     }
     h2{
