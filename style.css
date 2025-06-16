@@ -1,7 +1,7 @@
 html{ 
     font-size: 25px;
     font-family:"Open Sans",sans-serif;}
-    #div_002{
+    #div_003, #div_004{
         margin: 20px;}
     h1{
         font-size: 100px;
@@ -13,7 +13,7 @@ html{
     h1:hover {
         color: red;};
     p{
-        color: lightblue;
+        color: white;
     }
     h2{
         font-size: 25px;}
