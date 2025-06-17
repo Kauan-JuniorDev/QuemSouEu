@@ -1,7 +1,7 @@
 html{ 
     font-size: 25px;
     font-family:"Open Sans",sans-serif;}
-    #strong_0001{
+    #h1_0001{
         margin: 10px;
         font-size: 100px;
         text-align: center;
@@ -15,7 +15,7 @@ html{
         color: white;
     }
     h2{
-        font-size: 25px;}
+        font-size: 35px;}
     h2, h3, h4{
         color : white;}
     body{
