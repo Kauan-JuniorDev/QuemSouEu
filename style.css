@@ -9,6 +9,9 @@ html{
         width: auto;
         height: auto;
         background-color: lightblue;}
+    .h2_element, .h4_element, .p_element, .h3_element, .bts_element {
+        margin-left: 10px;
+    }
     #h1_0001:hover {
         color: red;}
     #p_0001{
@@ -41,7 +44,7 @@ html{
                 background-color: black;
                 border: 8px dotted red;
                 padding : 10px 5 px;}
-           #h1_0001:hover {
+           #h1_0001: hover {
                 color : red;}
             h2,h3 {
                 text-align : left;}}    
