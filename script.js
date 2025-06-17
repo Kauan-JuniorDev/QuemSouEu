@@ -11,17 +11,17 @@ var alerta;
 alerta = "alerta";
 alert (alerta);
 
-var informação = document.getElementById("button_b_0001");
+var informação = document.getElementById("button_bts_0001");
 informação.addEventListener('click', function () {
   alert('informação');
 });
 
-var aviso = document.getElementById("button_b_0002");
+var aviso = document.getElementById("button_bts_0002");
 aviso.addEventListener('click', function () {
   alert('aviso');
 });
 
-var perigo = document.getElementById("button_b_0003");
+var perigo = document.getElementById("button_bts_0003");
 perigo.addEventListener('click', function () {
   alert('perigo');
 });
