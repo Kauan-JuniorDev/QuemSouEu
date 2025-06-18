@@ -34,10 +34,8 @@ body{
             min-width: 250px;
             min-height: 300px;}
 #div_0001{
-            background-color : black;
             margin: 1em 2em;
-            border: 5px solid white;
-            padding : 5px;}
+            border: 5px solid white;}
 @media screen and (min-width: 800px){
             #div_0001{
                 background-color: black;
