@@ -2,13 +2,14 @@ html{
     font-size: 25px;
     font-family:"Open Sans",sans-serif;}
 #h1_0001{
-        margin: 10px;
-        font-size: 100px;
-        text-align: center;
-        color: white;
-        width: auto;
-        height: auto;
-        background-color: lightblue;}
+    margin: 10px;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    width: auto;
+    border: 10px double black;
+    height: auto;
+    background-color: lightblue;}
 .h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
         margin-left: 10px;}
 #h1_0001:hover {
