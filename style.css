@@ -34,12 +34,12 @@ body{
             min-width: 250px;
             min-height: 300px;}
 #div_0001{
-            margin: 1em 2em;
+            margin: 1% 2%;
             border: 5px solid white;}
 @media screen and (min-width: 800px){
             #div_0001{
                 background-color: black;
-                border: 8px dotted red;}
+                border: 15px solid red;}
 #h1_0001: hover{
         color : red;}
 h2,h3{
