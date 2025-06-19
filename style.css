@@ -3,7 +3,7 @@ html{
     font-family:"Open Sans",sans-serif;}
 #h1_0001{
     margin: 10px;
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
     color: white;
     width: auto;
@@ -36,7 +36,7 @@ body{
     margin: 1% 2%;
     border: 5px solid white;}
 @media screen and (min-width: 800px){
-    #h1_0001 {font-size: 50px;}
+    #h1_0001 {font-size: 100px;}
     #div_0001{
         background-color: black;
         border: 15px solid red;}
