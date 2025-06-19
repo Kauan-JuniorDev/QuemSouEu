@@ -7,8 +7,10 @@ html{
     text-align: center;
     color: white;
     width: auto;
-    border: 10px solid red;
+    border: 8.5px solid red;
     height: auto;
+    border-radius: 10px;
+    padding: 5px;
     background-color: lightblue;}
 .h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
     margin-left: 10px;}
