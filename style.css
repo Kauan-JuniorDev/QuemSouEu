@@ -47,18 +47,20 @@ body{
 h2,h3{
         text-align : left;}
 .button_class{
-    width: 20%;
-    height: 20%;
-    max-width: 60px; 
-    max-height: 60px;
-    min-width: 30px;
-    min-height: 30px;}
+    width: 35%;
+    height: 35%;
+    max-width: 150px; 
+    max-height: 150px;
+    min-width: 50px;
+    min-height: 50px;}
 #button_0001{
     margin: 5px;
-    font-size: 20px;
+    font-size: 45px;
     text-align: center;
     color: gray;
     border: 8.5px solid black;
     border-radius: 12.5px;
     padding: auto;
     background-color: lightblue;}
+#button_0001 hover{
+    color: gray}
