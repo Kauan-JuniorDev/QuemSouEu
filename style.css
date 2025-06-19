@@ -3,7 +3,7 @@ html{
     font-family:"Open Sans",sans-serif;}
 #h1_0001{
     margin: 10px;
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
     color: white;
     width: auto;
@@ -11,34 +11,35 @@ html{
     height: auto;
     background-color: lightblue;}
 .h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
-        margin-left: 10px;}
+    margin-left: 10px;}
 #h1_0001:hover {
-        color: red;}
+    color: red;}
 #p_0001{
-        color: white;}
+    color: white;}
 h2{
-        font-size: 40px;}
+    font-size: 40px;}
 h2, h3, h4{
-        color : white;}
+    color : white;}
 body{
-        background-image: url(fundo.png);
-        background-repeat : no-repeat;
-        background-attachment : fixed;
-        background-size : cover;}
+    background-image: url(fundo.png);
+    background-repeat : no-repeat;
+    background-attachment : fixed;
+    background-size : cover;}
 #img_0001{
-            width: 35%;
-            height: 35%;
-            max-width: 500px; 
-            max-height: 600px;
-            min-width: 250px;
-            min-height: 300px;}
-#div_0001{
-            margin: 1% 2%;
-            border: 5px solid white;}
+    width: 35%;
+    height: 35%;
+    max-width: 500px; 
+    max-height: 600px;
+    min-width: 250px;
+    min-height: 300px;}
+#div_0001{            
+    margin: 1% 2%;
+    border: 5px solid white;}
 @media screen and (min-width: 800px){
-            #div_0001{
-                background-color: black;
-                border: 15px solid red;}
+    #h1_0001 {font-size: 50px;}
+    #div_0001{
+        background-color: black;
+        border: 15px solid red;}
 #h1_0001: hover{
         color : red;}
 h2,h3{
