@@ -48,9 +48,9 @@ h2,h3{
         text-align : left;}
 .button_class{
     width: 35%;
-    height: 35%;
+    height: 30%;
     max-width: 150px; 
-    max-height: 150px;
+    max-height: 125px;
     min-width: 50px;
     min-height: 50px;}
 #button_0001{
