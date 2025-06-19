@@ -7,7 +7,7 @@ html{
     text-align: center;
     color: white;
     width: auto;
-    border: 10px double black;
+    border: 10px solid black;
     height: auto;
     background-color: lightblue;}
 .h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
