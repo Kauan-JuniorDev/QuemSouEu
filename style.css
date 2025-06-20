@@ -49,10 +49,10 @@ h2,h3{
 .button_class{
     width: 35%;
     height: 30%;
-    max-width: 1500px; 
-    max-height: 1250px;
-    min-width: 60px;
-    min-height: 50px;}
+    max-width: 945px; 
+    max-height: 700px;
+    min-width: 125px;
+    min-height: 65px;}
 #button_0001{
     margin: 5px;
     font-size: 45px;
