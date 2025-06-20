@@ -4,24 +4,23 @@ html{
 #h1_0001{
     max-width: 1900px;
     max-height: 1000px;
-    min-width: 350px;
-    min-height: 200px;
+    min-width: 200px;
+    min-height: 100px;
     margin: 10px;
     font-size: clamp(20px, 5vw, 60px);
     text-align: center;
-    border: 8.5px solid red;
+    border: 7.5px solid red;
     border-radius: 10px;
     padding: 1%;
-    background-color: lightblue;}
-.h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
+    background-color: lightblue;
+    :hover {color: red;};}
+.h2_class, .h4_class, .p_class, .h3_class, .button_class{
     margin-left: 10px;}
 #h1_0001:hover {
     color: red;}
-#p_0001{
-    color: white;}
 h2{
     font-size: 40px;}
-h2, h3, h4{
+h2, h3, h4, p{
     color : white;}
 body{
     background-image: url(fundo.png);
@@ -41,9 +40,10 @@ body{
     border: 5px solid white;}
 @media screen and (min-width: 800px){
     #div_0001{
-        border: 15px solid red;};}
-#h1_0001: hover{
-        color : red;}
+        border: 15px solid red;};
+    #h1_0001{
+        clamp(45px, 15vw, 150px);};
+}
 h2,h3{
         text-align : left;}
 .button_class{
