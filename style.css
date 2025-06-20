@@ -35,14 +35,13 @@ body{
     min-width: 250px;
     min-height: 300px;}
 #div_0001{            
-    margin: 1% 2%;
     background-color: black;
     border: 5px solid white;}
 @media screen and (min-width: 800px){
     #div_0001{
         border: 15px solid red;};
     #h1_0001{
-        clamp(45px, 15vw, 150px);};
+    font-size: clamp(45px, 15vw, 150px);};
 }
 h2,h3{
         text-align : left;}
