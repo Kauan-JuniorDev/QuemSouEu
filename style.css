@@ -2,15 +2,18 @@ html{
     font-size: 25px;
     font-family:"Open Sans",sans-serif;}
 #h1_0001{
+    width: 75%;
+    height: 25%;
+    max-width: 1000px; 
+    max-height: 500px;
+    min-width: 350px;
+    min-height: 200px;
     margin: 10px;
-    font-size: 50%;
+    font-size: auto;
     text-align: center;
-    color: white;
-    width: auto;
     border: 8.5px solid red;
-    height: auto;
     border-radius: 10px;
-    padding: auto;
+    padding: 1%;
     background-color: lightblue;}
 .h2_class, .h4_class, .p_class, .h3_class, .bts_bts_class {
     margin-left: 10px;}
@@ -48,10 +51,10 @@ h2,h3{
 .button_class{
     width: 35%;
     height: 30%;
-    max-width: 150px; 
-    max-height: 125px;
-    min-width: 50px;
-    min-height: 50px;}
+    max-width: 1500px; 
+    max-height: 1250px;
+    min-width: 250px;
+    min-height: 350px;}
 #button_0001{
     margin: 5px;
     font-size: 45px;
