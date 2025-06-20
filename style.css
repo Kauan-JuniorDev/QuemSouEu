@@ -7,7 +7,7 @@ html{
     min-width: 350px;
     min-height: 200px;
     margin: 10px;
-    font-size: clamp(10px, 5vw, 45px);
+    font-size: clamp(20px, 5vw, 60px);
     text-align: center;
     border: 8.5px solid red;
     border-radius: 10px;
@@ -55,12 +55,10 @@ h2,h3{
     min-height: 65px;}
 #button_0001{
     margin: 5px;
-    font-size: 45px;
     text-align: center;
     color: gray;
-    font-size: clamp(5px, 5vw, 25px);
+    font-size: clamp(18.5px, 5vw, 25px);
     border: 8.5px solid black;
     border-radius: 12.5px;
-    padding: auto;
     background-color: lightblue;
     :hover{color: red};}
