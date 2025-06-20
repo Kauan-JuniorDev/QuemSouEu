@@ -39,7 +39,6 @@ body{
     background-color: black;
     border: 5px solid white;}
 @media screen and (min-width: 800px){
-    #h1_0001 {font-size: 100px;}
     #div_0001{
         border: 15px solid red;};}
 #h1_0001: hover{
