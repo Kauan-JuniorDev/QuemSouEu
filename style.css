@@ -7,7 +7,7 @@ html{
     min-width: 185px;
     min-height: 50px;
     margin: 10px;
-    font-size: clamp(25px, 10vw, 60px);
+    font-size: clamp(25px, 20vw, 150px);
     text-align: center;
     border: 7.5px solid red;
     border-radius: 10px;
