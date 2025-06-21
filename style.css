@@ -41,7 +41,7 @@ body{
     #div_0001{
         border: 10px solid red;};
     #h1_0001{
-    font-size: clamp(45px, 20vw, 150px)};
+    font-size: clamp(45px, 20vw, 150px);};
 }
 h2,h3{
         text-align : left;}
